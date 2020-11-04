@@ -7,8 +7,6 @@ A repository to make available all Liberate Science logo's &c. All
 content licensed under a CC0 Public Domain Dedication because feel
 free to use.
 
-![#574CFA](https://placehold.it/15/574CFA/000000?text=+) `#574CFA`
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
